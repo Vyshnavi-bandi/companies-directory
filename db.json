@@ -1,0 +1,274 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Aether Labs",
+      "industry": "Technology",
+      "location": "San Francisco, USA",
+      "employees": 230,
+      "website": "https://aetherlabs.example.com",
+      "description": "Scalable cloud infrastructure and DevOps tooling"
+    },
+    {
+      "id": 2,
+      "name": "BlueSage Renewable",
+      "industry": "Energy",
+      "location": "Bengaluru, India",
+      "employees": 410,
+      "website": "https://bluesagerenew.example.com",
+      "description": "Solar and wind microgrid solutions"
+    },
+    {
+      "id": 3,
+      "name": "NimblePay",
+      "industry": "Finance",
+      "location": "London, UK",
+      "employees": 95,
+      "website": "https://nimblepay.example.co.uk",
+      "description": "Payments API and merchant services"
+    },
+    {
+      "id": 4,
+      "name": "VitaCore Health",
+      "industry": "Healthcare",
+      "location": "Toronto, Canada",
+      "employees": 520,
+      "website": "https://vitacore.example.ca",
+      "description": "Integrated digital health records and telemedicine"
+    },
+    {
+      "id": 5,
+      "name": "GreenField AgriTech",
+      "industry": "Technology",
+      "location": "Bengaluru, India",
+      "employees": 60,
+      "website": "https://greenfieldagri.example.in",
+      "description": "IoT sensors and analytics for farms"
+    },
+    {
+      "id": 6,
+      "name": "Orbit Robotics",
+      "industry": "Technology",
+      "location": "San Francisco, USA",
+      "employees": 180,
+      "website": "https://orbitrobotics.example.kr",
+      "description": "Autonomous robots for logistics and warehousing"
+    },
+    {
+      "id": 7,
+      "name": "Cobalt Cyber",
+      "industry": "Technology",
+      "location": "London, UK",
+      "employees": 140,
+      "website": "https://cobaltcyber.example.il",
+      "description": "Threat detection and incident response platform"
+    },
+    {
+      "id": 8,
+      "name": "Lumen Interactive",
+      "industry": "Technology",
+      "location": "San Francisco, USA",
+      "employees": 85,
+      "website": "https://lumeninteractive.example.com",
+      "description": "Interactive streaming and live event experiences"
+    },
+    {
+      "id": 9,
+      "name": "AquaSense",
+      "industry": "Energy",
+      "location": "Singapore",
+      "employees": 47,
+      "website": "https://aquasense.example.nz",
+      "description": "Water-quality monitoring sensors and analytics"
+    },
+    {
+      "id": 10,
+      "name": "ParcelPulse",
+      "industry": "Logistics",
+      "location": "Singapore",
+      "employees": 260,
+      "website": "https://parcelpulse.example.sg",
+      "description": "Last-mile delivery optimization and tracking"
+    },
+    {
+      "id": 11,
+      "name": "Atlas Education",
+      "industry": "Technology",
+      "location": "London, UK",
+      "employees": 72,
+      "website": "https://atlasedu.example.ie",
+      "description": "Adaptive learning platform for schools and universities"
+    },
+    {
+      "id": 12,
+      "name": "ForgeWorks",
+      "industry": "Technology",
+      "location": "San Francisco, USA",
+      "employees": 340,
+      "website": "https://forgeworks.example.de",
+      "description": "Smart factory automation and IIoT solutions"
+    },
+    {
+      "id": 13,
+      "name": "Breeze Mobility",
+      "industry": "Logistics",
+      "location": "Singapore",
+      "employees": 195,
+      "website": "https://breezemobility.example.br",
+      "description": "Micro-mobility fleet operations and analytics"
+    },
+    {
+      "id": 14,
+      "name": "Quantum Ledger",
+      "industry": "Finance",
+      "location": "London, UK",
+      "employees": 58,
+      "website": "https://quantumledger.example.ch",
+      "description": "Enterprise blockchain for secure supply chains"
+    },
+    {
+      "id": 15,
+      "name": "PixelFarm Studios",
+      "industry": "Technology",
+      "location": "Toronto, Canada",
+      "employees": 34,
+      "website": "https://pixelfarm.example.au",
+      "description": "Design and animation studio for brands and games"
+    },
+    {
+      "id": 16,
+      "name": "EchoSense",
+      "industry": "Technology",
+      "location": "Bengaluru, India",
+      "employees": 410,
+      "website": "https://echosense.example.cn",
+      "description": "Connected sensors and edge-processing devices"
+    },
+    {
+      "id": 17,
+      "name": "Harbor Fintech",
+      "industry": "Finance",
+      "location": "New York, USA",
+      "employees": 720,
+      "website": "https://harborfin.example.com",
+      "description": "Digital banking and wealth-management platform"
+    },
+    {
+      "id": 18,
+      "name": "Solace Biotech",
+      "industry": "Healthcare",
+      "location": "San Francisco, USA",
+      "employees": 210,
+      "website": "https://solacebio.example.com",
+      "description": "Therapeutics and diagnostics research"
+    },
+    {
+      "id": 19,
+      "name": "Threadline Apparel",
+      "industry": "Retail",
+      "location": "London, UK",
+      "employees": 150,
+      "website": "https://threadline.example.it",
+      "description": "Sustainable fashion brand with direct-to-consumer sales"
+    },
+    {
+      "id": 20,
+      "name": "MetricAI",
+      "industry": "Technology",
+      "location": "Bengaluru, India",
+      "employees": 125,
+      "website": "https://metricai.example.in",
+      "description": "ML models and MLOps tooling for enterprises"
+    },
+    {
+      "id": 21,
+      "name": "Clearwater Capital",
+      "industry": "Finance",
+      "location": "New York, USA",
+      "employees": 22,
+      "website": "https://clearwatercap.example.com",
+      "description": "Early-stage investments in climate and deep tech"
+    },
+    {
+      "id": 22,
+      "name": "NaturaWell",
+      "industry": "Retail",
+      "location": "Toronto, Canada",
+      "employees": 310,
+      "website": "https://naturawell.example.es",
+      "description": "Natural personal care products and supply chain transparency"
+    },
+    {
+      "id": 23,
+      "name": "Synapse Analytics",
+      "industry": "Technology",
+      "location": "London, UK",
+      "employees": 86,
+      "website": "https://synapseanalytics.example.se",
+      "description": "Data engineering and business-intelligence platforms"
+    },
+    {
+      "id": 24,
+      "name": "HelioGrid",
+      "industry": "Energy",
+      "location": "Singapore",
+      "employees": 49,
+      "website": "https://heliogrid.example.za",
+      "description": "Modular battery storage and microgrid controllers"
+    },
+    {
+      "id": 25,
+      "name": "Veritax Legal",
+      "industry": "Technology",
+      "location": "London, UK",
+      "employees": 39,
+      "website": "https://veritax.example.nl",
+      "description": "Contract automation and compliance tooling for law firms"
+    },
+    {
+      "id": 26,
+      "name": "BrightBridge Homes",
+      "industry": "Technology",
+      "location": "Toronto, Canada",
+      "employees": 102,
+      "website": "https://brightbridge.example.ca",
+      "description": "Property management platform and tenant experience apps"
+    },
+    {
+      "id": 27,
+      "name": "Aurora Sensors",
+      "industry": "Technology",
+      "location": "San Francisco, USA",
+      "employees": 275,
+      "website": "https://aurorasensors.example.ru",
+      "description": "High-precision sensors for aerospace and defense"
+    },
+    {
+      "id": 28,
+      "name": "Mosaic Health",
+      "industry": "Healthcare",
+      "location": "Bengaluru, India",
+      "employees": 88,
+      "website": "https://mosaichealth.example.id",
+      "description": "Mobile-first primary care and health coaching"
+    },
+    {
+      "id": 29,
+      "name": "TerraBuild",
+      "industry": "Technology",
+      "location": "Singapore",
+      "employees": 430,
+      "website": "https://terrabuild.example.ae",
+      "description": "Prefab construction systems and on-site robotics"
+    },
+    {
+      "id": 30,
+      "name": "OracleWave",
+      "industry": "Technology",
+      "location": "Bengaluru, India",
+      "employees": 160,
+      "website": "https://oraclewave.example.in",
+      "description": "Customer-experience SaaS for mid-market enterprises"
+    }
+  ]
+}
