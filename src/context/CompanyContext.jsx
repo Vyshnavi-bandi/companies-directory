@@ -32,7 +32,7 @@ export const CompanyProvider = ({ children }) => {
       setLoading(true);
       setError(null);
       try {
-        const res = await fetch("http://localhost:4000/companies");
+        const res = await fetch("https://companies-api-fxob.onrender.com/companies");
         if (!res.ok) throw new Error("Failed to fetch");
         const data = await res.json();
         setCompanies(data);
